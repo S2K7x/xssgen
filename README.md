@@ -16,7 +16,7 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/xssgen.git
+    git clone https://github.com/S2K7x/xssgen.git
     cd xssgen
     ```
 
